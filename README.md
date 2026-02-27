@@ -1,1 +1,4 @@
 # bot
+yfinace
+twilio
+pandas
